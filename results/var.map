@@ -1,235 +1,205 @@
 1: global(null)
 2:  Object: BufferedInputStream @ -1
 9:  Object: PrintStream @ -1
-70:  Object: PrintStream @ -1
+52:  Object: PrintStream @ -1
+72:  Object: byte[] @ -1
+41:  Object: null @ -1
 3:  Object: FileInputStream @ -1
 8:  Object: byte[] @ -1
-53:  Object: null @ -1
-58:  Object: Surrogate$Parser @ -1
-59:  Object: CoderResult @ -1
+70:  Object: UTF_8$Encoder @ -1
+71:  Object: UTF_8 @ -1
+73:  Object: CodingErrorAction @ -1
+74:  Object: CodingErrorAction @ -1
+53:  Object: BufferedOutputStream @ -1
+54:  Object: FileOutputStream @ -1
+59:  Object: byte[] @ -1
+57:  Object: null @ -1
 29:  Object: String[] @ -1
 30:  Object: String @ -1
 25:  Object: OutputStreamWriter @ -1
-98:  Object: CodingErrorAction @ -1
-115:  Object: OutputStreamWriter @ -1
+39:  Object: CodingErrorAction @ -1
+85:  Object: OutputStreamWriter @ -1
 5:  Object: AtomicInteger @ -1
-104:  Object: String @ -1
 7:  Object: Object @ -1
-85:  Object: null @ -1
-14:  Object: null @ -1
-105:  Object: Surrogate$Parser @ -1
-106:  Object: CoderResult @ -1
-19:  Object: null @ -1
-109:  Object: PrintStream @ -1
-78:  Object: null @ -1
-73:  Object: FileDescriptor @ -1
-74:  Object: AtomicInteger @ -1
-42:  Object: MacRoman @ -1
-24:  Object: null @ -1
-71:  Object: BufferedOutputStream @ -1
-79:  Object: BufferedWriter @ -1
-31:  Object: char[] @ -1
-60:  Object: HeapByteBuffer @ -1
-61:  Object: byte[] @ -1
-52:  Object: null @ -1
-91:  Object: CodingErrorAction @ -1
-55:  Object: short[] @ -1
-18:  Object: BufferedWriter @ -1
+78:  Object: byte[] @ -1
+66:  Object: StreamEncoder @ -1
+68:  Object: OutputStreamWriter @ -1
+69:  Object: UTF_8 @ -1
+77:  Object: HeapByteBuffer @ -1
+79:  Object: PrintStream @ -1
+56:  Object: AtomicInteger @ -1
+33:  Object: UTF_8$Encoder @ -1
+34:  Object: UTF_8 @ -1
+35:  Object: byte[] @ -1
+36:  Object: CodingErrorAction @ -1
+67:  Object: null @ -1
+28:  Object: char[] @ -1
 20:  Object: OutputStreamWriter @ -1
-65:  Object: OutputStreamWriter @ -1
-66:  Object: char[] @ -1
-67:  Object: String @ -1
-47:  Object: char[] @ -1
-50:  Object: ReferenceQueue$Null @ -1
-51:  Object: ReferenceQueue$Lock @ -1
-64:  Object: null @ -1
+22:  Object: PrintStream @ -1
+23:  Object: StreamEncoder @ -1
+62:  Object: null @ -1
+21:  Object: null @ -1
+14:  Object: null @ -1
+82:  Object: OutputStreamWriter @ -1
+55:  Object: FileDescriptor @ -1
+58:  Object: Object @ -1
+19:  Object: null @ -1
+60:  Object: null @ -1
+49:  Object: String @ -1
+50:  Object: char[] @ -1
+44:  Object: PrintStream @ -1
+24:  Object: null @ -1
+61:  Object: BufferedWriter @ -1
+31:  Object: char[] @ -1
+42:  Object: HeapByteBuffer @ -1
+43:  Object: byte[] @ -1
+26:  Object: UTF_8 @ -1
+27:  Object: String @ -1
+51:  Object: OutputStreamWriter @ -1
+18:  Object: BufferedWriter @ -1
+47:  Object: OutputStreamWriter @ -1
+48:  Object: char[] @ -1
+80:  Object: null @ -1
+46:  Object: null @ -1
 17:  Object: null @ -1
+37:  Object: String @ -1
+38:  Object: char[] @ -1
 10:  Object: BufferedOutputStream @ -1
 11:  Object: FileOutputStream @ -1
 16:  Object: byte[] @ -1
-56:  Object: String @ -1
-57:  Object: char[] @ -1
-87:  Object: MacRoman @ -1
 4:  Object: FileDescriptor @ -1
-32:  Object: null @ -1
-93:  Object: WeakReference @ -1
-94:  Object: MacRoman$Decoder @ -1
-100:  Object: ReferenceQueue$Null @ -1
-114:  Object: String @ -1
-96:  Object: String @ -1
-63:  Object: null @ -1
-81:  Object: OutputStreamWriter @ -1
-112:  Object: OutputStreamWriter @ -1
-113:  Object: char[] @ -1
-99:  Object: char[] @ -1
-101:  Object: null @ -1
-89:  Object: MacRoman @ -1
-41:  Object: MacRoman$Decoder @ -1
-43:  Object: String @ -1
-45:  Object: CodingErrorAction @ -1
-48:  Object: CodingErrorAction @ -1
-49:  Object: char[] @ -1
-40:  Object: WeakReference @ -1
-86:  Object: OutputStreamWriter @ -1
-6:  Object: null @ -1
-27:  Object: String @ -1
-28:  Object: char[] @ -1
-77:  Object: byte[] @ -1
-69:  Object: OutputStreamWriter @ -1
-90:  Object: byte[] @ -1
-88:  Object: MacRoman$Encoder @ -1
-92:  Object: CodingErrorAction @ -1
-103:  Object: short[] @ -1
-72:  Object: FileOutputStream @ -1
 75:  Object: null @ -1
-39:  Object: CodingErrorAction @ -1
-108:  Object: byte[] @ -1
-84:  Object: StreamEncoder @ -1
-107:  Object: HeapByteBuffer @ -1
-33:  Object: MacRoman$Encoder @ -1
-34:  Object: MacRoman @ -1
-35:  Object: byte[] @ -1
-36:  Object: CodingErrorAction @ -1
-22:  Object: PrintStream @ -1
-23:  Object: StreamEncoder @ -1
-80:  Object: null @ -1
-21:  Object: null @ -1
-76:  Object: Object @ -1
-95:  Object: MacRoman @ -1
-46:  Object: String @ -1
-68:  Object: char[] @ -1
-62:  Object: PrintStream @ -1
-54:  Object: null @ -1
-26:  Object: MacRoman @ -1
-110:  Object: null @ -1
-97:  Object: CodingErrorAction @ -1
-37:  Object: String @ -1
-38:  Object: char[] @ -1
 13:  Object: AtomicInteger @ -1
+32:  Object: null @ -1
 15:  Object: Object @ -1
 12:  Object: FileDescriptor @ -1
-44:  Object: char[] @ -1
-82:  Object: null @ -1
-111:  Object: null @ -1
-102:  Object: null @ -1
-83:  Object: PrintStream @ -1
-145: global(AddressBook.<clinit> ()V)
-146: AddressBook.java:37 Concrete: String @ 1
-147: AddressBook.java:38 Concrete: String @ 2
-148: AddressBook.java:39 Concrete: String @ 3
-149: AddressBook.java:41 Concrete: String @ 4
-150: AddressBook.java:42 Concrete: String @ 5
-151: AddressBook.java:44 Concrete: String @ 6
-152: AddressBook.java:45 Concrete: String @ 7
-153: AddressBook.java:47 Concrete: String @ 8
-154: AddressBook.java:48 Concrete: String @ 9
-116: Param#0 method AddressBook.main ([Ljava/lang/String;)V
-118: AddressBook.java:61 Concrete: AddressBook @ 1
-120: AddressBook.java:61 Thrown exception of AddressBook.main() quad 3 => <init> ()V*
-121: AddressBook.java:63 Concrete: MaleRecord @ 6
-122: AddressBook.java:63 FieldLoad joe loc 8
-123: AddressBook.java:63 FieldLoad joeEmail loc 9
-124: AddressBook.java:63 Thrown exception of AddressBook.main() quad 10 => <init> (Ljava/lang/String;Ljava/lang/String;)V*
-125: AddressBook.java:64 Concrete: MaleRecord @ 13
-126: AddressBook.java:64 FieldLoad bob loc 15
-127: AddressBook.java:64 FieldLoad bobEmail loc 16
-128: AddressBook.java:64 Thrown exception of AddressBook.main() quad 17 => <init> (Ljava/lang/String;Ljava/lang/String;)V*
-129: AddressBook.java:66 Concrete: FemaleRecord @ 20
-130: AddressBook.java:66 FieldLoad mary loc 22
-131: AddressBook.java:66 FieldLoad maryEmail loc 23
-132: AddressBook.java:66 Thrown exception of AddressBook.main() quad 24 => <init> (Ljava/lang/String;Ljava/lang/String;)V*
-133: AddressBook.java:67 Concrete: FemaleRecord @ 27
-134: AddressBook.java:67 FieldLoad jane loc 29
-135: AddressBook.java:67 Thrown exception of AddressBook.main() quad 31 => <init> (Ljava/lang/String;Ljava/lang/String;)V*
-136: AddressBook.java:69 Concrete: MaleRecord @ 34
-137: AddressBook.java:69 FieldLoad joeAltEmail loc 37
-138: AddressBook.java:69 Thrown exception of AddressBook.main() quad 38 => <init> (Ljava/lang/String;Ljava/lang/String;)V*
-139: AddressBook.java:71 FieldLoad mainAddressBook loc 41
-140: AddressBook.java:71 Thrown exception of AddressBook.main() quad 42 => addRecord (LRecord;)V
-141: AddressBook.java:72 Thrown exception of AddressBook.main() quad 45 => addRecord (LRecord;)V
-142: AddressBook.java:73 Thrown exception of AddressBook.main() quad 48 => addRecord (LRecord;)V
-143: AddressBook.java:74 Thrown exception of AddressBook.main() quad 51 => addRecord (LRecord;)V
-144: AddressBook.java:75 Thrown exception of AddressBook.main() quad 54 => addRecord (LRecord;)V
-117: global(AddressBook.main ([Ljava/lang/String;)V)
-179: Object.java:24 Thrown exception of java.lang.Object.<clinit>() quad 1 => registerNatives ()V*
-178: global(java.lang.Object.<clinit> ()V)
-176: Param#0 method java.lang.Object.finalize ()V
-177: global(java.lang.Object.finalize ()V)
-173: String.java:1209 Concrete: String$CaseInsensitiveComparator @ 3
-174: String.java:1209 Concrete: NULL_TYPE @ 6
-175: String.java:1209 Thrown exception of java.lang.String.<clinit>() quad 5 => <init> (Ljava/lang/String$1;)V*
-170: global(java.lang.String.<clinit> ()V)
-171: String.java:122 Concrete: ObjectStreamField[] @ 1
-192: Param#0 method Record.<init> (Ljava/lang/String;Ljava/lang/String;Z)V
-193: Param#1 method Record.<init> (Ljava/lang/String;Ljava/lang/String;Z)V
-194: Param#2 method Record.<init> (Ljava/lang/String;Ljava/lang/String;Z)V
-196: AddressBook.java:12 Thrown exception of Record.<init>() quad 1 => <init> ()V*
-195: global(Record.<init> (Ljava/lang/String;Ljava/lang/String;Z)V)
-218: Param#0 method java.util.LinkedList.add (Ljava/lang/Object;)Z
-219: Param#1 method java.util.LinkedList.add (Ljava/lang/Object;)Z
-221: LinkedList.java:198 FieldLoad header loc 3
-222: LinkedList.java:198 Return value of java.util.LinkedList.add() quad 4 => addBefore (Ljava/lang/Object;Ljava/util/LinkedList$Entry;)Ljava/util/LinkedList$Entry;*
-223: LinkedList.java:198 Thrown exception of java.util.LinkedList.add() quad 4 => addBefore (Ljava/lang/Object;Ljava/util/LinkedList$Entry;)Ljava/util/LinkedList$Entry;*
-220: global(java.util.LinkedList.add (Ljava/lang/Object;)Z)
-209: Param#0 method java.util.LinkedList$Entry.<init> (Ljava/lang/Object;Ljava/util/LinkedList$Entry;Ljava/util/LinkedList$Entry;)V
-210: Param#1 method java.util.LinkedList$Entry.<init> (Ljava/lang/Object;Ljava/util/LinkedList$Entry;Ljava/util/LinkedList$Entry;)V
-211: Param#2 method java.util.LinkedList$Entry.<init> (Ljava/lang/Object;Ljava/util/LinkedList$Entry;Ljava/util/LinkedList$Entry;)V
-212: Param#3 method java.util.LinkedList$Entry.<init> (Ljava/lang/Object;Ljava/util/LinkedList$Entry;Ljava/util/LinkedList$Entry;)V
-214: LinkedList.java:770 Thrown exception of java.util.LinkedList$Entry.<init>() quad 1 => <init> ()V*
-213: global(java.util.LinkedList$Entry.<init> (Ljava/lang/Object;Ljava/util/LinkedList$Entry;Ljava/util/LinkedList$Entry;)V)
-201: Param#0 method AddressBook.addRecord (LRecord;)V
-202: Param#1 method AddressBook.addRecord (LRecord;)V
-204: AddressBook.java:57 FieldLoad records loc 2
-205: AddressBook.java:57 Thrown exception of AddressBook.addRecord() quad 3 => add (Ljava/lang/Object;)Z
-203: global(AddressBook.addRecord (LRecord;)V)
-197: Param#0 method java.lang.String$CaseInsensitiveComparator.<init> (Ljava/lang/String$1;)V
-198: Param#1 method java.lang.String$CaseInsensitiveComparator.<init> (Ljava/lang/String$1;)V
-200: String.java:1211 Thrown exception of java.lang.String$CaseInsensitiveComparator.<init>() quad 1 => <init> ()V*
-199: global(java.lang.String$CaseInsensitiveComparator.<init> (Ljava/lang/String$1;)V)
-160: Param#0 method MaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V
-161: Param#1 method MaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V
-162: Param#2 method MaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V
-164: AddressBook.java:21 Thrown exception of MaleRecord.<init>() quad 1 => <init> (Ljava/lang/String;Ljava/lang/String;Z)V*
-163: global(MaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V)
-206: Param#0 method java.util.AbstractSequentialList.<init> ()V
-208: AbstractSequentialList.java:57 Thrown exception of java.util.AbstractSequentialList.<init>() quad 1 => <init> ()V*
-207: global(java.util.AbstractSequentialList.<init> ()V)
-180: Param#0 method java.lang.Object.<init> ()V
-181: global(java.lang.Object.<init> ()V)
-165: Param#0 method FemaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V
-166: Param#1 method FemaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V
-167: Param#2 method FemaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V
-169: AddressBook.java:28 Thrown exception of FemaleRecord.<init>() quad 1 => <init> (Ljava/lang/String;Ljava/lang/String;Z)V*
-168: global(FemaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V)
-182: Param#0 method java.util.LinkedList.<init> ()V
-184: LinkedList.java:84 Thrown exception of java.util.LinkedList.<init>() quad 1 => <init> ()V*
-185: LinkedList.java:78 Concrete: LinkedList$Entry @ 3
-188: LinkedList.java:78 Concrete: NULL_TYPE @ 8
-187: LinkedList.java:78 Concrete: NULL_TYPE @ 7
-186: LinkedList.java:78 Concrete: NULL_TYPE @ 6
-189: LinkedList.java:78 Thrown exception of java.util.LinkedList.<init>() quad 5 => <init> (Ljava/lang/Object;Ljava/util/LinkedList$Entry;Ljava/util/LinkedList$Entry;)V*
-183: global(java.util.LinkedList.<init> ()V)
-190: LinkedList.java:85 FieldLoad header loc 15
-155: Param#0 method AddressBook.<init> ()V
-157: AddressBook.java:52 Thrown exception of AddressBook.<init>() quad 1 => <init> ()V*
-158: AddressBook.java:53 Concrete: LinkedList @ 3
-159: AddressBook.java:53 Thrown exception of AddressBook.<init>() quad 5 => <init> ()V*
-156: global(AddressBook.<init> ()V)
-236: Param#0 method java.util.AbstractCollection.<init> ()V
-238: AbstractCollection.java:49 Thrown exception of java.util.AbstractCollection.<init>() quad 1 => <init> ()V*
-237: global(java.util.AbstractCollection.<init> ()V)
-227: Param#0 method java.util.LinkedList.addBefore (Ljava/lang/Object;Ljava/util/LinkedList$Entry;)Ljava/util/LinkedList$Entry;
-228: Param#1 method java.util.LinkedList.addBefore (Ljava/lang/Object;Ljava/util/LinkedList$Entry;)Ljava/util/LinkedList$Entry;
-229: Param#2 method java.util.LinkedList.addBefore (Ljava/lang/Object;Ljava/util/LinkedList$Entry;)Ljava/util/LinkedList$Entry;
-231: LinkedList.java:778 Concrete: LinkedList$Entry @ 1
-232: LinkedList.java:778 FieldLoad previous loc 5
-233: LinkedList.java:778 Thrown exception of java.util.LinkedList.addBefore() quad 6 => <init> (Ljava/lang/Object;Ljava/util/LinkedList$Entry;Ljava/util/LinkedList$Entry;)V*
-230: global(java.util.LinkedList.addBefore (Ljava/lang/Object;Ljava/util/LinkedList$Entry;)Ljava/util/LinkedList$Entry;)
-234: LinkedList.java:779 FieldLoad previous loc 10
-235: LinkedList.java:780 FieldLoad next loc 14
-224: Param#0 method java.util.AbstractList.<init> ()V
-226: AbstractList.java:59 Thrown exception of java.util.AbstractList.<init>() quad 1 => <init> ()V*
-225: global(java.util.AbstractList.<init> ()V)
-215: Param#0 method java.lang.String$CaseInsensitiveComparator.<init> ()V
-217: String.java:1211 Thrown exception of java.lang.String$CaseInsensitiveComparator.<init>() quad 1 => <init> ()V*
-216: global(java.lang.String$CaseInsensitiveComparator.<init> ()V)
+84:  Object: String @ -1
+45:  Object: null @ -1
+63:  Object: OutputStreamWriter @ -1
+83:  Object: char[] @ -1
+64:  Object: null @ -1
+76:  Object: null @ -1
+40:  Object: null @ -1
+6:  Object: null @ -1
+81:  Object: null @ -1
+65:  Object: PrintStream @ -1
+115: global(AddressBook.<clinit> ()V)
+116: AddressBook.java:37 Concrete: String @ 1
+117: AddressBook.java:38 Concrete: String @ 2
+118: AddressBook.java:39 Concrete: String @ 3
+119: AddressBook.java:41 Concrete: String @ 4
+120: AddressBook.java:42 Concrete: String @ 5
+121: AddressBook.java:44 Concrete: String @ 6
+122: AddressBook.java:45 Concrete: String @ 7
+123: AddressBook.java:47 Concrete: String @ 8
+124: AddressBook.java:48 Concrete: String @ 9
+86: Param#0 method AddressBook.main ([Ljava/lang/String;)V
+88: AddressBook.java:61 Concrete: AddressBook @ 1
+90: AddressBook.java:61 Thrown exception of AddressBook.main() quad 3 => <init> ()V*
+91: AddressBook.java:63 Concrete: MaleRecord @ 6
+92: AddressBook.java:63 FieldLoad joe loc 8
+93: AddressBook.java:63 FieldLoad joeEmail loc 9
+94: AddressBook.java:63 Thrown exception of AddressBook.main() quad 10 => <init> (Ljava/lang/String;Ljava/lang/String;)V*
+95: AddressBook.java:64 Concrete: MaleRecord @ 13
+96: AddressBook.java:64 FieldLoad bob loc 15
+97: AddressBook.java:64 FieldLoad bobEmail loc 16
+98: AddressBook.java:64 Thrown exception of AddressBook.main() quad 17 => <init> (Ljava/lang/String;Ljava/lang/String;)V*
+99: AddressBook.java:66 Concrete: FemaleRecord @ 20
+100: AddressBook.java:66 FieldLoad mary loc 22
+101: AddressBook.java:66 FieldLoad maryEmail loc 23
+102: AddressBook.java:66 Thrown exception of AddressBook.main() quad 24 => <init> (Ljava/lang/String;Ljava/lang/String;)V*
+103: AddressBook.java:67 Concrete: FemaleRecord @ 27
+104: AddressBook.java:67 FieldLoad jane loc 29
+105: AddressBook.java:67 Thrown exception of AddressBook.main() quad 31 => <init> (Ljava/lang/String;Ljava/lang/String;)V*
+106: AddressBook.java:69 Concrete: MaleRecord @ 34
+107: AddressBook.java:69 FieldLoad joeAltEmail loc 37
+108: AddressBook.java:69 Thrown exception of AddressBook.main() quad 38 => <init> (Ljava/lang/String;Ljava/lang/String;)V*
+109: AddressBook.java:71 FieldLoad mainAddressBook loc 41
+110: AddressBook.java:71 Thrown exception of AddressBook.main() quad 42 => addRecord (LRecord;)V
+111: AddressBook.java:72 Thrown exception of AddressBook.main() quad 45 => addRecord (LRecord;)V
+112: AddressBook.java:73 Thrown exception of AddressBook.main() quad 48 => addRecord (LRecord;)V
+113: AddressBook.java:74 Thrown exception of AddressBook.main() quad 51 => addRecord (LRecord;)V
+114: AddressBook.java:75 Thrown exception of AddressBook.main() quad 54 => addRecord (LRecord;)V
+87: global(AddressBook.main ([Ljava/lang/String;)V)
+149: Object.java:41 Thrown exception of java.lang.Object.<clinit>() quad 1 => registerNatives ()V*
+148: global(java.lang.Object.<clinit> ()V)
+146: Param#0 method java.lang.Object.finalize ()V
+147: global(java.lang.Object.finalize ()V)
+143: String.java:1218 Concrete: String$CaseInsensitiveComparator @ 3
+144: String.java:1218 Concrete: NULL_TYPE @ 6
+145: String.java:1218 Thrown exception of java.lang.String.<clinit>() quad 5 => <init> (Ljava/lang/String$1;)V*
+140: global(java.lang.String.<clinit> ()V)
+141: String.java:139 Concrete: ObjectStreamField[] @ 1
+162: Param#0 method Record.<init> (Ljava/lang/String;Ljava/lang/String;Z)V
+163: Param#1 method Record.<init> (Ljava/lang/String;Ljava/lang/String;Z)V
+164: Param#2 method Record.<init> (Ljava/lang/String;Ljava/lang/String;Z)V
+166: AddressBook.java:12 Thrown exception of Record.<init>() quad 1 => <init> ()V*
+165: global(Record.<init> (Ljava/lang/String;Ljava/lang/String;Z)V)
+188: Param#0 method java.util.LinkedList.add (Ljava/lang/Object;)Z
+189: Param#1 method java.util.LinkedList.add (Ljava/lang/Object;)Z
+191: LinkedList.java:215 FieldLoad header loc 3
+192: LinkedList.java:215 Return value of java.util.LinkedList.add() quad 4 => addBefore (Ljava/lang/Object;Ljava/util/LinkedList$Entry;)Ljava/util/LinkedList$Entry;*
+193: LinkedList.java:215 Thrown exception of java.util.LinkedList.add() quad 4 => addBefore (Ljava/lang/Object;Ljava/util/LinkedList$Entry;)Ljava/util/LinkedList$Entry;*
+190: global(java.util.LinkedList.add (Ljava/lang/Object;)Z)
+179: Param#0 method java.util.LinkedList$Entry.<init> (Ljava/lang/Object;Ljava/util/LinkedList$Entry;Ljava/util/LinkedList$Entry;)V
+180: Param#1 method java.util.LinkedList$Entry.<init> (Ljava/lang/Object;Ljava/util/LinkedList$Entry;Ljava/util/LinkedList$Entry;)V
+181: Param#2 method java.util.LinkedList$Entry.<init> (Ljava/lang/Object;Ljava/util/LinkedList$Entry;Ljava/util/LinkedList$Entry;)V
+182: Param#3 method java.util.LinkedList$Entry.<init> (Ljava/lang/Object;Ljava/util/LinkedList$Entry;Ljava/util/LinkedList$Entry;)V
+184: LinkedList.java:787 Thrown exception of java.util.LinkedList$Entry.<init>() quad 1 => <init> ()V*
+183: global(java.util.LinkedList$Entry.<init> (Ljava/lang/Object;Ljava/util/LinkedList$Entry;Ljava/util/LinkedList$Entry;)V)
+171: Param#0 method AddressBook.addRecord (LRecord;)V
+172: Param#1 method AddressBook.addRecord (LRecord;)V
+174: AddressBook.java:57 FieldLoad records loc 2
+175: AddressBook.java:57 Thrown exception of AddressBook.addRecord() quad 3 => add (Ljava/lang/Object;)Z
+173: global(AddressBook.addRecord (LRecord;)V)
+167: Param#0 method java.lang.String$CaseInsensitiveComparator.<init> (Ljava/lang/String$1;)V
+168: Param#1 method java.lang.String$CaseInsensitiveComparator.<init> (Ljava/lang/String$1;)V
+170: String.java:1220 Thrown exception of java.lang.String$CaseInsensitiveComparator.<init>() quad 1 => <init> ()V*
+169: global(java.lang.String$CaseInsensitiveComparator.<init> (Ljava/lang/String$1;)V)
+130: Param#0 method MaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V
+131: Param#1 method MaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V
+132: Param#2 method MaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V
+134: AddressBook.java:21 Thrown exception of MaleRecord.<init>() quad 1 => <init> (Ljava/lang/String;Ljava/lang/String;Z)V*
+133: global(MaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V)
+176: Param#0 method java.util.AbstractSequentialList.<init> ()V
+178: AbstractSequentialList.java:74 Thrown exception of java.util.AbstractSequentialList.<init>() quad 1 => <init> ()V*
+177: global(java.util.AbstractSequentialList.<init> ()V)
+150: Param#0 method java.lang.Object.<init> ()V
+151: global(java.lang.Object.<init> ()V)
+135: Param#0 method FemaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V
+136: Param#1 method FemaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V
+137: Param#2 method FemaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V
+139: AddressBook.java:28 Thrown exception of FemaleRecord.<init>() quad 1 => <init> (Ljava/lang/String;Ljava/lang/String;Z)V*
+138: global(FemaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V)
+152: Param#0 method java.util.LinkedList.<init> ()V
+154: LinkedList.java:101 Thrown exception of java.util.LinkedList.<init>() quad 1 => <init> ()V*
+155: LinkedList.java:95 Concrete: LinkedList$Entry @ 3
+158: LinkedList.java:95 Concrete: NULL_TYPE @ 8
+157: LinkedList.java:95 Concrete: NULL_TYPE @ 7
+156: LinkedList.java:95 Concrete: NULL_TYPE @ 6
+159: LinkedList.java:95 Thrown exception of java.util.LinkedList.<init>() quad 5 => <init> (Ljava/lang/Object;Ljava/util/LinkedList$Entry;Ljava/util/LinkedList$Entry;)V*
+153: global(java.util.LinkedList.<init> ()V)
+160: LinkedList.java:102 FieldLoad header loc 15
+125: Param#0 method AddressBook.<init> ()V
+127: AddressBook.java:52 Thrown exception of AddressBook.<init>() quad 1 => <init> ()V*
+128: AddressBook.java:53 Concrete: LinkedList @ 3
+129: AddressBook.java:53 Thrown exception of AddressBook.<init>() quad 5 => <init> ()V*
+126: global(AddressBook.<init> ()V)
+206: Param#0 method java.util.AbstractCollection.<init> ()V
+208: AbstractCollection.java:66 Thrown exception of java.util.AbstractCollection.<init>() quad 1 => <init> ()V*
+207: global(java.util.AbstractCollection.<init> ()V)
+197: Param#0 method java.util.LinkedList.addBefore (Ljava/lang/Object;Ljava/util/LinkedList$Entry;)Ljava/util/LinkedList$Entry;
+198: Param#1 method java.util.LinkedList.addBefore (Ljava/lang/Object;Ljava/util/LinkedList$Entry;)Ljava/util/LinkedList$Entry;
+199: Param#2 method java.util.LinkedList.addBefore (Ljava/lang/Object;Ljava/util/LinkedList$Entry;)Ljava/util/LinkedList$Entry;
+201: LinkedList.java:795 Concrete: LinkedList$Entry @ 1
+202: LinkedList.java:795 FieldLoad previous loc 5
+203: LinkedList.java:795 Thrown exception of java.util.LinkedList.addBefore() quad 6 => <init> (Ljava/lang/Object;Ljava/util/LinkedList$Entry;Ljava/util/LinkedList$Entry;)V*
+200: global(java.util.LinkedList.addBefore (Ljava/lang/Object;Ljava/util/LinkedList$Entry;)Ljava/util/LinkedList$Entry;)
+204: LinkedList.java:796 FieldLoad previous loc 10
+205: LinkedList.java:797 FieldLoad next loc 14
+194: Param#0 method java.util.AbstractList.<init> ()V
+196: AbstractList.java:76 Thrown exception of java.util.AbstractList.<init>() quad 1 => <init> ()V*
+195: global(java.util.AbstractList.<init> ()V)
+185: Param#0 method java.lang.String$CaseInsensitiveComparator.<init> ()V
+187: String.java:1220 Thrown exception of java.lang.String$CaseInsensitiveComparator.<init>() quad 1 => <init> ()V*
+186: global(java.lang.String$CaseInsensitiveComparator.<init> ()V)
