@@ -113,7 +113,7 @@ cvP (vc:VC0, v:V0, h:H0) output
 # printed by print_bddbddb_results.py
 
 # field 'ha.field' of heap object 'ha' may point to heap object 'hb'
-hP (ha:H0, field:F0, hb:H1) outputtuples printsize
+hP (ha:H0, hb:H1) outputtuples printsize
 # variable 'v' may point to heap object 'h'
 vP (v:V0, h:H0) outputtuples
 # invocation site 'invoke' may call method 'target'
