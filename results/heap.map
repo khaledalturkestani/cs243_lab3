@@ -1,0 +1,135 @@
+1: global(null)
+2:  Object: BufferedInputStream @ -1
+53:  Object: null @ -1
+58:  Object: Surrogate$Parser @ -1
+29:  Object: String[] @ -1
+25:  Object: OutputStreamWriter @ -1
+98:  Object: CodingErrorAction @ -1
+115:  Object: OutputStreamWriter @ -1
+5:  Object: AtomicInteger @ -1
+104:  Object: String @ -1
+7:  Object: Object @ -1
+85:  Object: null @ -1
+14:  Object: null @ -1
+105:  Object: Surrogate$Parser @ -1
+19:  Object: null @ -1
+109:  Object: PrintStream @ -1
+78:  Object: null @ -1
+59:  Object: CoderResult @ -1
+73:  Object: FileDescriptor @ -1
+42:  Object: MacRoman @ -1
+24:  Object: null @ -1
+70:  Object: PrintStream @ -1
+30:  Object: String @ -1
+60:  Object: HeapByteBuffer @ -1
+8:  Object: byte[] @ -1
+52:  Object: null @ -1
+91:  Object: CodingErrorAction @ -1
+55:  Object: short[] @ -1
+18:  Object: BufferedWriter @ -1
+47:  Object: char[] @ -1
+50:  Object: ReferenceQueue$Null @ -1
+64:  Object: null @ -1
+17:  Object: null @ -1
+10:  Object: BufferedOutputStream @ -1
+56:  Object: String @ -1
+87:  Object: MacRoman @ -1
+3:  Object: FileInputStream @ -1
+32:  Object: null @ -1
+93:  Object: WeakReference @ -1
+4:  Object: FileDescriptor @ -1
+16:  Object: byte[] @ -1
+114:  Object: String @ -1
+96:  Object: String @ -1
+63:  Object: null @ -1
+79:  Object: BufferedWriter @ -1
+99:  Object: char[] @ -1
+101:  Object: null @ -1
+89:  Object: MacRoman @ -1
+41:  Object: MacRoman$Decoder @ -1
+40:  Object: WeakReference @ -1
+86:  Object: OutputStreamWriter @ -1
+6:  Object: null @ -1
+61:  Object: byte[] @ -1
+27:  Object: String @ -1
+65:  Object: OutputStreamWriter @ -1
+77:  Object: byte[] @ -1
+9:  Object: PrintStream @ -1
+90:  Object: byte[] @ -1
+88:  Object: MacRoman$Encoder @ -1
+71:  Object: BufferedOutputStream @ -1
+75:  Object: null @ -1
+39:  Object: CodingErrorAction @ -1
+48:  Object: CodingErrorAction @ -1
+108:  Object: byte[] @ -1
+84:  Object: StreamEncoder @ -1
+33:  Object: MacRoman$Encoder @ -1
+74:  Object: AtomicInteger @ -1
+28:  Object: char[] @ -1
+20:  Object: OutputStreamWriter @ -1
+80:  Object: null @ -1
+106:  Object: CoderResult @ -1
+21:  Object: null @ -1
+112:  Object: OutputStreamWriter @ -1
+72:  Object: FileOutputStream @ -1
+103:  Object: short[] @ -1
+95:  Object: MacRoman @ -1
+46:  Object: String @ -1
+67:  Object: String @ -1
+107:  Object: HeapByteBuffer @ -1
+62:  Object: PrintStream @ -1
+45:  Object: CodingErrorAction @ -1
+54:  Object: null @ -1
+26:  Object: MacRoman @ -1
+49:  Object: char[] @ -1
+51:  Object: ReferenceQueue$Lock @ -1
+69:  Object: OutputStreamWriter @ -1
+110:  Object: null @ -1
+97:  Object: CodingErrorAction @ -1
+37:  Object: String @ -1
+100:  Object: ReferenceQueue$Null @ -1
+13:  Object: AtomicInteger @ -1
+15:  Object: Object @ -1
+12:  Object: FileDescriptor @ -1
+43:  Object: String @ -1
+44:  Object: char[] @ -1
+38:  Object: char[] @ -1
+35:  Object: byte[] @ -1
+57:  Object: char[] @ -1
+94:  Object: MacRoman$Decoder @ -1
+68:  Object: char[] @ -1
+76:  Object: Object @ -1
+34:  Object: MacRoman @ -1
+31:  Object: char[] @ -1
+11:  Object: FileOutputStream @ -1
+82:  Object: null @ -1
+23:  Object: StreamEncoder @ -1
+66:  Object: char[] @ -1
+36:  Object: CodingErrorAction @ -1
+113:  Object: char[] @ -1
+111:  Object: null @ -1
+92:  Object: CodingErrorAction @ -1
+22:  Object: PrintStream @ -1
+102:  Object: null @ -1
+81:  Object: OutputStreamWriter @ -1
+83:  Object: PrintStream @ -1
+146: AddressBook.java:37 Concrete: String @ 1
+147: AddressBook.java:38 Concrete: String @ 2
+148: AddressBook.java:39 Concrete: String @ 3
+149: AddressBook.java:41 Concrete: String @ 4
+150: AddressBook.java:42 Concrete: String @ 5
+151: AddressBook.java:44 Concrete: String @ 6
+152: AddressBook.java:45 Concrete: String @ 7
+153: AddressBook.java:47 Concrete: String @ 8
+154: AddressBook.java:48 Concrete: String @ 9
+118: AddressBook.java:61 Concrete: AddressBook @ 1
+121: AddressBook.java:63 Concrete: MaleRecord @ 6
+125: AddressBook.java:64 Concrete: MaleRecord @ 13
+129: AddressBook.java:66 Concrete: FemaleRecord @ 20
+133: AddressBook.java:67 Concrete: FemaleRecord @ 27
+136: AddressBook.java:69 Concrete: MaleRecord @ 34
+173: String.java:1209 Concrete: String$CaseInsensitiveComparator @ 3
+171: String.java:122 Concrete: ObjectStreamField[] @ 1
+185: LinkedList.java:78 Concrete: LinkedList$Entry @ 3
+158: AddressBook.java:53 Concrete: LinkedList @ 3
+231: LinkedList.java:778 Concrete: LinkedList$Entry @ 1

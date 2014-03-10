@@ -69,6 +69,7 @@ public class AddressBook {
     Record joeAltRecord = new MaleRecord(joe, joeAltEmail);
 
     mainAddressBook.addRecord(joeRecord);
+    mainAddressBook.addRecord(bobRecord);  // Added this as part of Exercise 2 of Part A
     mainAddressBook.addRecord(maryRecord);
     mainAddressBook.addRecord(janeRecord);
     mainAddressBook.addRecord(joeAltRecord);

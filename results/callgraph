@@ -1,0 +1,91 @@
+CLASS AddressBook
+ METHOD <clinit> ()V ROOT
+ METHOD <init> ()V
+  CALLSITE 1
+   TARGET java/lang/Object.<init> ()V
+  CALLSITE 9
+   TARGET java/util/LinkedList.<init> ()V
+ METHOD addRecord (LRecord;)V
+  CALLSITE 5
+   TARGET java/util/LinkedList.add (Ljava/lang/Object;)Z
+ METHOD main ([Ljava/lang/String;)V ROOT
+  CALLSITE 4
+   TARGET AddressBook.<init> ()V
+  CALLSITE 20
+   TARGET MaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V
+  CALLSITE 34
+   TARGET MaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V
+  CALLSITE 48
+   TARGET FemaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V
+  CALLSITE 62
+   TARGET FemaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V
+  CALLSITE 77
+   TARGET MaleRecord.<init> (Ljava/lang/String;Ljava/lang/String;)V
+  CALLSITE 86
+   TARGET AddressBook.addRecord (LRecord;)V
+  CALLSITE 93
+   TARGET AddressBook.addRecord (LRecord;)V
+  CALLSITE 100
+   TARGET AddressBook.addRecord (LRecord;)V
+  CALLSITE 108
+   TARGET AddressBook.addRecord (LRecord;)V
+  CALLSITE 116
+   TARGET AddressBook.addRecord (LRecord;)V
+CLASS FemaleRecord
+ METHOD <init> (Ljava/lang/String;Ljava/lang/String;)V
+  CALLSITE 4
+   TARGET Record.<init> (Ljava/lang/String;Ljava/lang/String;Z)V
+CLASS MaleRecord
+ METHOD <init> (Ljava/lang/String;Ljava/lang/String;)V
+  CALLSITE 4
+   TARGET Record.<init> (Ljava/lang/String;Ljava/lang/String;Z)V
+CLASS Record
+ METHOD <init> (Ljava/lang/String;Ljava/lang/String;Z)V
+  CALLSITE 1
+   TARGET java/lang/Object.<init> ()V
+CLASS java/lang/Object
+ METHOD <clinit> ()V ROOT
+  CALLSITE 0
+   TARGET java/lang/Object.registerNatives ()V
+ METHOD <init> ()V
+ METHOD finalize ()V ROOT
+ METHOD registerNatives ()V
+CLASS java/lang/String$CaseInsensitiveComparator
+ METHOD <init> ()V
+  CALLSITE 1
+   TARGET java/lang/Object.<init> ()V
+ METHOD <init> (Ljava/lang/String$1;)V
+  CALLSITE 1
+   TARGET java/lang/String$CaseInsensitiveComparator.<init> ()V
+CLASS java/lang/String
+ METHOD <clinit> ()V ROOT
+  CALLSITE 12
+   TARGET java/lang/String$CaseInsensitiveComparator.<init> (Ljava/lang/String$1;)V
+CLASS java/util/AbstractCollection
+ METHOD <init> ()V
+  CALLSITE 1
+   TARGET java/lang/Object.<init> ()V
+CLASS java/util/AbstractList
+ METHOD <init> ()V
+  CALLSITE 1
+   TARGET java/util/AbstractCollection.<init> ()V
+CLASS java/util/AbstractSequentialList
+ METHOD <init> ()V
+  CALLSITE 1
+   TARGET java/util/AbstractList.<init> ()V
+CLASS java/util/LinkedList$Entry
+ METHOD <init> (Ljava/lang/Object;Ljava/util/LinkedList$Entry;Ljava/util/LinkedList$Entry;)V
+  CALLSITE 1
+   TARGET java/lang/Object.<init> ()V
+CLASS java/util/LinkedList
+ METHOD <init> ()V
+  CALLSITE 1
+   TARGET java/util/AbstractSequentialList.<init> ()V
+  CALLSITE 12
+   TARGET java/util/LinkedList$Entry.<init> (Ljava/lang/Object;Ljava/util/LinkedList$Entry;Ljava/util/LinkedList$Entry;)V
+ METHOD add (Ljava/lang/Object;)Z
+  CALLSITE 6
+   TARGET java/util/LinkedList.addBefore (Ljava/lang/Object;Ljava/util/LinkedList$Entry;)Ljava/util/LinkedList$Entry;
+ METHOD addBefore (Ljava/lang/Object;Ljava/util/LinkedList$Entry;)Ljava/util/LinkedList$Entry;
+  CALLSITE 10
+   TARGET java/util/LinkedList$Entry.<init> (Ljava/lang/Object;Ljava/util/LinkedList$Entry;Ljava/util/LinkedList$Entry;)V
